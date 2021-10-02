@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Faik. I am freshman at Bilkent University Computer Science Department.
 <!--
 **FaikUtku/FaikUtku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
